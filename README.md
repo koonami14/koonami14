@@ -1,6 +1,6 @@
 ## Hello, nice to meet you. I'm koonami 👋🪠
 
- - 🌱 I’m currently learning Python, Java, C# and linux.
+ - 🌱 Currently learning Python, Java, C# and linux.
 
 <!--
 **koonami14/koonami14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
