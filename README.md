@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, nice to meet you. I'm koonami 👋🪠
 
  - 🌱 I’m currently learning Python, Java, C# and linux.
 
